@@ -1,0 +1,40 @@
+header {
+  background-color: #343a40 !important;
+  padding: 8px 0;
+}
+
+nav {
+  background-color: transparent !important;
+}
+
+.bg-body-tertiary {
+  background-color: transparent !important;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.registerbtn {
+  background-color: transparent;
+  color: #fff;
+  border-radius: 0;
+  border: 1px solid #7CBD1E !important;
+}
+.registerbtn:hover {
+  background-color: #7CBD1E;
+}
+
+.loginbtn {
+  border-radius: 0;
+  color: #fff;
+  background-color: #7CBD1E;
+  border: 1px solid #7CBD1E !important;
+}
+.loginbtn:hover {
+  background-color: #6fab1b;
+}
+
+.nav-item:hover .dropdown-menu {
+  display: block !important;
+}
